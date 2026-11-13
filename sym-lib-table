@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+
+  (lib (name "OpenRide") (type "KiCad") (uri "${KIPRJMOD}/OpenRide.kicad_sym") (options "") (descr ""))
+  (lib (name "SKRTLAE010") (type "KiCad") (uri "${KIPRJMOD}/Symbols/SKRTLAE010.kicad_sym") (options "") (descr "")))

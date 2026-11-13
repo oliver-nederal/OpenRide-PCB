@@ -1,0 +1,187 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "ATGM336H-5N71" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "U" (id 0) (at 0.254 28.956 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "ATGM336H-5N71" (id 1) (at 1.27 -5.08 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "ATGM336H-5N71:ATGM336H-5N" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "DESCRIPTION" "2.5m UART -148dBm 2.7V~3.6V SMD,10.1x9.7mm RF Receivers RoHS" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "LCSC" "C2940946" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "Hangzhou Zhongke Microelectronics Co., Ltd." (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MPN" "ATGM336H-5N71" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SOURCE_URL" "https://www.snapeda.com/parts/ATGM336H-5N71/Zhongke+Microelectronics/view-part/" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "ATGM336H-5N71_0_0"
+      (polyline
+        (pts (xy 0.0 -2.54) (xy 0.0 27.94)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.0 27.94) (xy 30.48 27.94)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 30.48 27.94) (xy 30.48 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 30.48 -2.54) (xy 0.0 -2.54)) (stroke (width 0.1524))
+      )
+      (pin bidirectional line (at 35.56 2.54 180.0) (length 5.08)
+        (name "1-0V"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 35.56 5.08 180.0) (length 5.08)
+        (name "2-TXD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 35.56 7.62 180.0) (length 5.08)
+        (name "3-RXD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 35.56 10.16 180.0) (length 5.08)
+        (name "4-1PPS"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 35.56 12.7 180.0) (length 5.08)
+        (name "5-ON/OFF"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 35.56 15.24 180.0) (length 5.08)
+        (name "6-VBAT"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 35.56 17.78 180.0) (length 5.08)
+        (name "7-NC"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 35.56 20.32 180.0) (length 5.08)
+        (name "8-VCC"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at 35.56 22.86 180.0) (length 5.08)
+        (name "9-NRESET"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -5.08 22.86 0) (length 5.08)
+        (name "10-0V"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -5.08 20.32 0) (length 5.08)
+        (name "11-RF_IN"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -5.08 17.78 0) (length 5.08)
+        (name "12-0V"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -5.08 15.24 0) (length 5.08)
+        (name "13-NC"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$13"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -5.08 12.7 0) (length 5.08)
+        (name "14-VCC_RF"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$14"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -5.08 10.16 0) (length 5.08)
+        (name "15-RESERVED"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$15"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -5.08 7.62 0) (length 5.08)
+        (name "16-SDA"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$16"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -5.08 5.08 0) (length 5.08)
+        (name "17-SCL"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$17"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin bidirectional line (at -5.08 2.54 0) (length 5.08)
+        (name "18-RESERVED"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P$18"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
