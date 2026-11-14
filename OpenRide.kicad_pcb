@@ -6447,6 +6447,17 @@
 			(uuid "863ec5dc-d3c7-402e-ac68-ab58e361bf91")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3DModel/MLT-8530--3DModel-STEP-269445.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric"
 		(layer "F.Cu")
