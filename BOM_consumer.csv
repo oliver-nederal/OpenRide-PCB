@@ -1,0 +1,48 @@
+Designators,Part Name,,LCSC Part #,Description,Quantity,Total Price
+NOTE,NOTE,NOTE,NOTE,! This price is for 2 boards (minimum PCBA quantity at JLCPCB) !,NOTE,NOTE
+(N/A) PCB,JLCPCB PCB Service (PCB),JLCPCB,N/A,$25 (Engineering Fee) + $4.60 (Board),1,$29.60
+(N/A) PCB_ASSEMBLY,JLCPCB PCB Assembly Service (PCB-A),JLCPCB,N/A,$51.50 + $16.54 + $2.58 + $60.54 + $6.60 + $0.50,1,$138.26
+(N/A) 3D-P FILAMENT,Generic PETG,OWN,N/A,Material for the outside casing,75g,$1.50
+(N/A) 3D-P FILAMENT,Generic TPU95,OWN,N/A,Material for the buttons and USB-C cover,10g,$0.40
+(N/A) BATTERY,2000mAH 3.7V Li-Po Battery,Adafruit,N/A,https://www.adafruit.com/product/2011,1,$12.5
+(N/A) DISPLAY,3.5" 320x480px IPS TFT LCD (w/ Resistive Touch),BuyDisplay,N/A,https://www.buydisplay.com/3-5-inch-ips-320x480-tft-lcd-display-capacitive-touch-screen,1,$10.87
+AE1,Connector Receptacle,JLCPCB,U.FL-R-SMT-1(10),Antenna for GPS,5,$1.1445
+C1, C16, C26, C9, C23,Capacitors (1uF 25V),JLCPCB,CL10A105KA8NNNC,Capacitors,40,$0.3320
+C10, C15, C19, C20, C24, C28, C4, C5, C6, C7, C2,Capacitors (10uF),JLCPCB,CL21A106KAYNNNE,Capacitors,32,$0.9952
+C11, C12, C13, C14, C17, C18, C21, C25, C27, C22,Capacitors (100nF),JLCPCB,CL10B104KB8NNNC,Capacitors,53,$0.5512
+C3,Capacitor (4.7uF 16V),JLCPCB,CL10A475KO8NNNC,Capacitors,20,$0.3000
+C8,Capacitor (4.7nF),JLCPCB,CL10B473KB8NNNC,Capacitors,20,$0.1120
+D1,TVS Diode,JLCPCB,SMF5.0A,Protects from high-voltage spikes,15,$0.4260
+D2, D4,Switching Diode,JLCPCB,1N4148W,Makes current flow in only one direction,18,$0.2232
+D3,Schottky Barrier Diode,JLCPCB,BAT54C,To prevent reversed polarity damage,10,$0.1670
+F1,Resettable Fuse,JLCPCB,MF-NSMF110-2,Resettable fuse to prevent hardware damage,6,$0.2232
+J1,USB_C Receptacle,JLCPCB,TYPE-C-31-M-12,USB-C connector for data/charging,2,$0.3738
+J2,MicroSD Card Reader,JLCPCB,DM3AT-SF-PEJM5,Micro-SD card reader for maps/ride recording,2,$2.7816
+J3,50Pin Bottom Contact SMD Connector,JLCPCB,FH12-50S-0.5SH(55),50-Pin display connector with push lock,2,$1.7212
+J4,3Pin SMD Connector,JLCPCB,S3B-PH-SM4-TB(LF)(SN),3-Pin battery connector with click-in,2,$0.5282
+L1,Inductor (2.2uH),JLCPCB,SWPA4030S2R2MT,Inductor,6,$0.3192
+LS1,Electro-Magnetic Buzzer,JLCPCB,MLT-8530,Buzzer for making sound,2,$0.3938
+Q1, Q2,30V N-Channel MOSFET,JLCPCB,AO3400A,Turns low current to high current,8,$0.6312
+R1, R2,Resistors (5.1k),JLCPCB,0603WAF5101T5E,Resistors,20,$0.0300
+R10, R11, R12, R13, R14, R17, R18, R24, R28, R8, R9,Resistors (10k),JLCPCB,0603WAF1002T5E,Resistors,32,$0.0640
+R15, R16, R20, R23, R27, R5,Resistors (100k),JLCPCB,0603WAF1003T5E,Resistors,22,$0.0638
+R19, R22,Resistors (1k),JLCPCB,0603WAF1001T5E,Resistors,20,$0.0340
+R21,Resistors (10R),JLCPCB,1206W4F100JT5E,Resistors,15,$0.0915
+R25, R26,Resistors (4.7k),JLCPCB,0603WAF4701T5E,Resistors,20,$0.0560
+R3,Resistors (499R),JLCPCB,0603WAF4990T5E,Resistors,20,$0.0300
+R4,Resistors (1.37k),JLCPCB,0603WAF1371T5E,Resistors,20,$0.0300
+R6,Resistors (5.23k),JLCPCB,0603WAF5231T5E,Resistors,20,$0.0400
+R7,Resistors (30.1k),JLCPCB,0603WAF3012T5E,Resistors,20,$0.0320
+S1, S2,Gull Wing Round Button,JLCPCB,TL3342F160QG,The buttons on top of the bike computer,4,$3.7500
+S3, S4,Round Button SMD(SMT) Tab,JLCPCB,SKRTLAE010,The buttons on the side of the bike computer,7,$1.0045
+U1,ESP32-S3-WROOM,JLCPCB,ESP32-S3-WROOM-1-N16R8,The microcontroller,2,$10.6970
+U10,Resistive Touchscreen Controller,JLCPCB,TSC2007IPWR,Controller that interprets touchscreen input,2,$2.7618
+U2,GPS Module,JLCPCB,ATGM336H-5N31,GPS positioning across the main 2 networks,2,$6.5118
+U3,Lithium Battery Charger,JLCPCB,BQ25606RGER,Synchronous switch-mode buck charger,2,$3.5342
+U4,Battery Fuel Gauge,JLCPCB,MAX17048G+T10,Chip to see battery charge level,2,$3.8876
+U5,Transient Voltage Suppressor Diode Array,JLCPCB,USBLC6-2SC6,Protects the data line,6,$0.2868
+U6,Accelerometer,JLCPCB,LIS3DHTR,Accelerometer, measures acceleration,2,$3.6160
+U7,Barometer,JLCPCB,BMP388,Atmospheric pressure sensor (for height),2,$13.6618
+U8,Voltage Regulator,JLCPCB,AP2112K-3.3TRG1,Voltage regulator for a continuous load,5,$0.5565
+U9,Light Sensor,JLCPCB,LTR-303ALS-01,Light sensor to automatically adjust screen brightness,5,$2.7325
+,,,,,,
