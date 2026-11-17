@@ -595,7 +595,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "../../../Downloads/OpenRide.dsn",
-      "step": "",
+      "step": "../../../Downloads/OpenRide.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

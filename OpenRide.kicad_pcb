@@ -5382,7 +5382,7 @@
 			(uuid "74be14a5-fd5d-44e9-8746-780a56a8d966")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3DModel/LGA-10_L2.0-W2.0-P0.50-BL.wrl"
+		(model "${KIPRJMOD}/3DModel/LGA-10_L2.0-W2.0-P0.50-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25134,7 +25134,7 @@
 			(uuid "1fc6d2a3-9b2e-4654-92dc-f41663bf29e9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/OptoDevice.3dshapes/Lite-On_LTR-303ALS-01.step"
+		(model "${KIPRJMOD}/3DModel/LTR-303ALS-01.step"
 			(offset
 				(xyz 0 0 0)
 			)
